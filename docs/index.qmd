@@ -1,0 +1,51 @@
+
+---
+format:
+  html: {toc: true, toc-depth: 4, theme: cosmo, output-file: index.html}
+fontsize: 0.9em
+code-block-background: true
+include-in-header: {text: '<link rel = "icon" href = "data:," />'}
+
+---
+<style></style><style>.printedClojure .sourceCode {
+  background-color: transparent;
+  border-style: none;
+}
+</style><style>.clay-limit-image-width .clay-image {max-width: 100%}
+</style>
+<script src="index_files/md-default0.js" type="text/javascript"></script><script src="index_files/md-default1.js" type="text/javascript"></script>
+
+::: {.sourceClojure}
+```clojure
+(ns index
+  (:require [tablecloth.api :as tc]
+            [scicloj.noj.v1.vis.hanami :as hanami]
+            [scicloj.kindly.v4.kind :as kind]))
+```
+:::
+
+
+
+# heartjure ❤️ ⚡️
+
+Welcome stranger,
+
+The following book encompasses a small study over
+one of Kaggle's [Heart Attack datasets](https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset)
+
+It's a domain that's very well studied. I am not seeking
+to produce any groundbreaking findings here but
+just to make a few nice visualisations and perhaps fit
+a few good models for the purposes to showcase my data
+science and machine learning skills
+
+
+```{=html}
+<div style="background-color:grey;height:2px;width:100%;"></div>
+```
+
+
+
+```{=html}
+<div><pre><small><small>source: src/index.clj</small></small></pre></div>
+```
