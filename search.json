@@ -1,0 +1,22 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Heartjure - Using Clojure to predict heart attacks",
+    "section": "",
+    "text": "(ns index\n  (:require [tablecloth.api :as tc]\n            [scicloj.noj.v1.vis.hanami :as hanami]\n            [scicloj.kindly.v4.kind :as kind]))\n\n\n1 heartjure ❤️ ⚡️\nWelcome stranger,\nThe following book encompasses a small study over one of Kaggle’s Heart Attack datasets\nIt’s a domain that’s very well studied. I am not seeking to produce any groundbreaking findings here but just to make a few nice visualisations and perhaps fit a few good models for the purposes to showcase my data science and machine learning skills\n\nsource: src/index.clj",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>heartjure ❤️ ⚡️</span>"
+    ]
+  },
+  {
+    "objectID": "notebooks.study.html",
+    "href": "notebooks.study.html",
+    "title": "Heartjure - Using Clojure to predict heart attacks",
+    "section": "",
+    "text": "(ns notebooks.study\n  (:require [tablecloth.api :as tc]\n            [scicloj.noj.v1.vis.hanami :as hanami]\n            [scicloj.kindly.v4.kind :as kind]))\n\n\nsource: src/notebooks/study.clj",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>notebooks.study.html</span>"
+    ]
+  }
+]
